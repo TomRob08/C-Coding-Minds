@@ -1,6 +1,8 @@
 # Homework 3
 
-## Fixing bugs in C++
+## Instructions
+
+### Fixing bugs in C++
 
 A friend of yours seems to be having trouble getting their program working and they have asked you to help fix the problems. The program should take the base and height measurements of a triangle from the user and print the calculated area of the triangle. Make sure the calculation is correct.
 ```
