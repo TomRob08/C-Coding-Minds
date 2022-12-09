@@ -52,13 +52,19 @@ int main()
 
 ### Run the program in the terminal
 ```
-$./main < text.txt
+$./main < inputFile.txt
 ```
 
 ### Output
 ```
 Please enter your name and age:
 Hello Dwight. 37 is a great age.
+```
+
+### Output response from program
+Programs can be ran with the option to print ```cout``` messages to their own file instead of straight to the terminal.
+```
+$./main <inputFile.txt >outputFile.txt
 ```
 
 ## Exercises
