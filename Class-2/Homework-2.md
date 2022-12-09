@@ -40,7 +40,7 @@ Plural noun: //salads
 Type of building (plural): //offices
 A place: //Iowa
 Letter of the Alphabet: //J
-Plural noun: potatos
+Plural noun: //potatos
 
 Your Story:
 Did you know that basketball is the only sport invented in the United clans of America? This hypnotic game was created 5 
