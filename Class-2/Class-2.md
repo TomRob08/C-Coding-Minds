@@ -52,7 +52,7 @@ int main()
 
 ### Run the program in the terminal
 ```
-$./main < inputFile.txt
+$ ./main < inputFile.txt
 ```
 
 ### Output
@@ -64,19 +64,19 @@ Hello Dwight. 37 is a great age.
 ### Output response from program
 Programs can be ran with the option to print ```cout``` messages to their own file instead of straight to the terminal.
 ```
-$./main <inputFile.txt >outputFile.txt
+$ ./main <inputFile.txt >outputFile.txt
 ```
 
 ### Compare and check if two files have the same information
 ```
-$diff firstFile secondFile
+$ diff firstFile secondFile
 ```
 If something gets printed then the two files have differences. If nothing happens then the two files are the same.
 
 __OR__
 
 ```
-$vimdiff firstFile secondFile
+$ vimdiff firstFile secondFile
 ```
 This will open a screen and show you the contents of both files. If a line if highlighted it means there is a difference. If nothing is highlighted it means both files are the same.
 
