@@ -39,6 +39,10 @@ Data types define what can be stored in a variable.
 
 ```string```: Strings are anything within double quotation marks. Some examples would be: "Hello", "eight", "8", "I like programming".
 
+```char```: Chars are anything within single quotations marks. They only store single characters.
+
+```boolean```: Booleans store True and False.
+
 ## Example of Variables being used in a program
 ```
 #include<iostream>
