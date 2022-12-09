@@ -67,6 +67,19 @@ Programs can be ran with the option to print ```cout``` messages to their own fi
 $./main <inputFile.txt >outputFile.txt
 ```
 
+### Compare and check if two files have the same information
+```
+$diff firstFile secondFile
+```
+If something gets printed then the two files have differences. If nothing happens then the two files are the same.
+
+__OR__
+
+```
+$vimdiff firstFile secondFile
+```
+This will open a screen and show you the contents of both files. If a line if highlighted it means there is a difference. If nothing is highlighted it means both files are the same.
+
 ## Exercises
 __1.__ Create text files for each of the previous exercises to achieve the same output.
 
