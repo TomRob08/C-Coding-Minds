@@ -64,7 +64,7 @@ Hello Dwight. 37 is a great age.
 ### Output response from program
 Programs can be ran with the option to print ```cout``` messages to their own file instead of straight to the terminal.
 ```
-$ ./main <inputFile.txt >outputFile.txt
+$ ./main < inputFile.txt > outputFile.txt
 ```
 
 ### Compare and check if two files have the same information
