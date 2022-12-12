@@ -1,6 +1,6 @@
 # Homework 5
 ## User login interface
-Stark Industries has come to you to create a user login interface for their offices. They have files for all of their employees on record containing the user account number and password and the file is named the employees name. Here are some of the files.
+Stark Industries has come to you to create a user login interface for their offices. They have files for all of their employees on record containing the user account number, password and the file is named the employees name. Here are some of the files.
 
 [Kelly.txt](https://github.com/TomRob08/C-Coding-Minds/files/10203706/Kelly.txt)
 ```
