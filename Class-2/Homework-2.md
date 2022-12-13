@@ -15,7 +15,7 @@ Did you know that basketball is the only sport invented in the United ___Plural 
 ago by a college student named ___Person's name___, who was studying to be a physical education ___noun___. One of his assignments was to develop a game to
 play indoors during the ___Adjective___ winter months. He took two ___Object___ and nailed them ___Number___ feet high onto opposite ends of a
 gymnasium. The goal was for players to throw a/an ___noun___ into them while they ___verb (past tense)___ as fast as they could up and down the gym. The
-constant ___verb ending in "ing"___ was great exercise, and the team competition made it very ___Adjective___ to play. In fact, the ___Plural noun___ who
+constant ___verb ending in ing___ was great exercise, and the team competition made it very ___Adjective___ to play. In fact, the ___Plural noun___ who
 first tried the new game liked it so much that word quickly spread to other universities and other ___Type of building (plural)___ across ___A place___. The
 young inventor not only earned a/an ___Letter of the alphabet___+ on the project, but basketball has been enjoyed by millions of ___Plural noun___ ever
 since!
