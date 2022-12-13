@@ -34,7 +34,7 @@ Object (plural): //lamps
 Number: //19
 Noun: //river
 Verb (Past tense): //organised
-Verb ending in "ing": //destroying
+Verb ending in ing: //destroying
 Adjective: //glamorous
 Plural noun: //salads
 Type of building (plural): //offices
