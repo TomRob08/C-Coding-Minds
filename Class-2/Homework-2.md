@@ -33,7 +33,7 @@ Adjective: //massive
 Object (plural): //lamps
 Number: //19
 Noun: //river
-Verb (Past tense): //organised
+Verb (Past tense): //organized
 Verb ending in ing: //destroying
 Adjective: //glamorous
 Plural noun: //salads
