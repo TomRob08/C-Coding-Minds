@@ -22,7 +22,7 @@ int main()
 ## Exercises
 __1.__ Ask a user to enter two numbers and print the sum.
 
-__2.__ Ask a user for their favorite color and then print it with your favorite color. The output should similar to this: ```Your favorite color is (user's color). Mine is (your color)```
+__2.__ Ask a user for their favorite color and then print it with your favorite color. The output should similar to this: ```Your favorite color is (user's color). My favorite is (your color)```
 
 ## Input using text file
 ```cin``` can also use information from a text file as a form of input instead of user generated input.
