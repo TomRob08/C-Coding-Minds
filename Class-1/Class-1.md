@@ -41,7 +41,7 @@ Data types define what can be stored in a variable.
 
 ```char```: Chars are anything within single quotations marks. They only store single characters.
 
-```boolean```: Booleans store True and False.
+```bool```: Booleans store True and False.
 
 ## Example of Variables being used in a program
 ```
