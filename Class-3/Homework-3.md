@@ -20,7 +20,7 @@ integer main()
 	string answer = "The answer is ";
 
 	// Greet the user
-	cout<<Hello, Friend!<<endl;
+	cout<<Hello, Friend!<<endl
 
 	// Ask for the triangle base
 	cout>>"What is the length of the base of the triangle? ";
