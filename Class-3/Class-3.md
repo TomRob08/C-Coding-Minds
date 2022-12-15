@@ -239,7 +239,7 @@ int main()
       break;
 
     case 18:
-      cout << "Dinner";
+      cout << "Dinner\n";
       break;
 
     default:
