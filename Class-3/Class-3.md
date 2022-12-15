@@ -233,7 +233,7 @@ int main()
     case 8:
       cout << "Breakfast\n";
       break;
-little part
+
     case 13:
       cout << "Lunch\n";
       break;
