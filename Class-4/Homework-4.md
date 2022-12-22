@@ -1,5 +1,5 @@
 # Homework 4
-For numbers between 1 - 10, use a switch statement to print the word for a number.
+For numbers between 1 - 10, use a switch statement to print the word for each number.
 
 ### Example:
 __Input:__
