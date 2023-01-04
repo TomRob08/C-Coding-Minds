@@ -151,4 +151,4 @@ Let me explain each statement inside the parentheses of the for loop.
 ### Exercises:
 __1.__ Ask a user to enter 2 different letters with the first letter being before the second letter in the alphabet. Then print all of the letters between the two using a for loop with the user letters included. (Type casting would be useful for this and look up the ascii table as a reference).
 
-__2.__ 
+__2.__ Create a program to produce the factorial of any number.
