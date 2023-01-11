@@ -91,4 +91,6 @@ T
 The returned value or variable of a function is sent back to the exact location where the function is called and you have to either print it, set it to a variable, or use it in an operation otherwise nothing happens with the data returned.
 
 ## Exercises:
-__1.__ 
+__1.__ Write a function called countDown and have it print 10-0.
+
+__2.__ 
