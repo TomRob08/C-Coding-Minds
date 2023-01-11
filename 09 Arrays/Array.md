@@ -1,3 +1,3 @@
 # Arrays
 
-Note to self: look up foreach loops fro arrays
+Note to self: look up foreach loops for arrays
