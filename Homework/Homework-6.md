@@ -24,7 +24,7 @@ Write code to create these shapes:
 *
 ```
 
-Optional Extra Challenge:
+__Optional Extra Challenge:__
 ```
 *********
  *******
