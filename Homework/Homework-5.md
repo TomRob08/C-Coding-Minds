@@ -37,7 +37,6 @@ Thank you Tim for logging in.
 You should also prevent people from continuing to log in after 3 incorrect tries and if their name isn't in the system.
 
 ### Example output with incorrect tries (Places with // is user input):
-__OR__
 ```
 Hello, welcome to Stark Industries.
 What is your name?
