@@ -79,7 +79,7 @@ int main()
 ### Exercises:
 __1.__ Ask a user for their favorite animal and then add the animal to the animals.txt file.
 
-__2.__ Ask a user what file they want to open. If the file exists than print it's contents but if it doesn't exist allow the user to insert a sentence to the file.
+__2.__ Ask a user what file they want to open. If the file exists then print it's contents but if it doesn't exist, allow the user to insert a sentence to a created file with the same name.
 
 ## String Manipulation
 C++ has a library ```#include<string>``` that adds string related functions.
