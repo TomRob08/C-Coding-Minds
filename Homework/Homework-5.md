@@ -76,7 +76,7 @@ That name is not in our system.
 
 ## Concepts used for this assignment:
 - String manipulation
-- fstream file input
+- file streams
 - while loops
 - bool variable
 - if statements
