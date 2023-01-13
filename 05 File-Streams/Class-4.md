@@ -84,7 +84,7 @@ __2.__ Ask a user what file they want to open. If the file exists then print it'
 ## String Manipulation
 C++ has a library ```#include<string>``` that adds string related functions.
 
-### String Concatination:
+### String Concatenation:
 ```
 #include <iostream>
 #include <string>
@@ -94,7 +94,7 @@ int main ()
 {
   string firstName = "Jim ";
   string lastName = "Halpert";
-  string fullname = firstName + lastName;
+  string fullName = firstName + lastName;
   //OR string fullName = firstName.append(lastName);
   cout << fullName << endl;
   return 0;
@@ -174,4 +174,4 @@ __2.__ Convert "7" to an integer, add 3, then print the sum.
 
 __3.__ Print the length of "Hippopotomonstrosesquippedaliophobia".
 
-__4.__ Ask a user for a word and use an if statement to check if the word is greater than or equal to 8 letters. If it is less than 8 letters print "Your word needs to be at least 8 letters." and end the program. If the password is is greater or equal to 8 letters than ask the user for four numbers and concatinate the numbers to the end of the word. Print the result.
+__4.__ Ask a user for a word and use an if statement to check if the word is greater than or equal to 8 letters. If it is less than 8 letters print "Your word needs to be at least 8 letters." and end the program. If the word is is greater or equal to 8 letters than ask the user for four numbers and concatinate the numbers to the end of the word. Print the result.
