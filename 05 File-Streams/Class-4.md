@@ -170,8 +170,8 @@ int main()
 ### Exercises:
 __1.__ Concatinate these two strings: "Slam" "dunk".
 
-__2.__ Convert "7" to an integer, then add 3, then convert the sum to a string and print it.
+__2.__ Convert "7" to an integer, add 3, then print the sum.
 
 __3.__ Print the length of "Hippopotomonstrosesquippedaliophobia".
 
-__4.__ Ask a user for a password and use an if statement to check if the password is greater than or equal to 8 letters. If it is less than 8 letters print "Your password needs to be at least 8 letters." and end the program. If the password is is greater or equal to 8 letters than ask the user for four numbers and concatinate the numbers to the end of the password. Print the result.
+__4.__ Ask a user for a word and use an if statement to check if the word is greater than or equal to 8 letters. If it is less than 8 letters print "Your word needs to be at least 8 letters." and end the program. If the password is is greater or equal to 8 letters than ask the user for four numbers and concatinate the numbers to the end of the word. Print the result.
