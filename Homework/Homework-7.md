@@ -1,4 +1,4 @@
-# Homework 6
+# Homework 7
 
 ## Drawing Shapes
 For these problems you will use nested loops.
