@@ -90,6 +90,34 @@ T
 
 The returned value or variable of a function is sent back to the exact location where the function is called and you have to either print it, set it to a variable, or use it in an operation otherwise nothing happens with the data returned.
 
+## Function Declarations
+A fuction can be declared at the top of a program and then the function block can be placed below the main function instead of being above it. This could help with readability and organization in some cases.
+
+### Example:
+```
+#include<iostream>
+using namespace std;
+
+void printName();
+
+int main()
+{
+  printName();
+}
+
+void printName()
+{
+  cout << "Sal" << endl;
+}
+```
+
+### Output:
+```
+Sal
+```
+
+In the example, ```void printName();``` is placed at the top of the code and it declares a function called printName will be used somewhere in the program and in this case ```printName()``` is under ```main()```.
+
 ## Exercises:
 __1.__ Write a function called countDown and have it print 10-0.
 
