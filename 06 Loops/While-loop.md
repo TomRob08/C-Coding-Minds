@@ -32,7 +32,7 @@ int main()
 As you can see in the example, the while loop ran and then stopped when ```i``` equaled 5.
 
 ### Exercises:
-__1.__ Continuously ask a user for numbers in a loop and end the loop if the user enters 0. When the loop ends, print the sum of the given user numbers.
+__1.__ Continuously ask a user for numbers in a loop and end the loop if the user enters 0. When the loop ends, print the sum of the given numbers.
 
 __2.__ Use a random variable between 0 and 100 and have a user guess the number in a loop. Let the user know if their guess is higher or lower than the actual number and when they get the number correct.
 
