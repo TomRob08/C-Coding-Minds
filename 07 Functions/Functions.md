@@ -121,4 +121,8 @@ In the example, ```void printName();``` is placed at the top of the code and it 
 ## Exercises:
 __1.__ Write a function called countDown and have it print 10-0.
 
-__2.__ 
+__2.__ Write a function called max that asks a user for two numbers, compares the two numbers and returns the larger number.
+
+__3.__ Write another function called min that asks a user for two numbers, compares the two numbers and returns the smaller number. 
+
+__4.__ Then organize the two min and max functions to be placed under ```main()```.
