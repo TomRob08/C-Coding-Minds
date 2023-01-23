@@ -83,3 +83,10 @@ Jill
 ```
 
 As seen in the fuction delaration, a ```&``` denotes that a parameter will be a pass by reference parameter and that sign can be used right next to the data type or variable name such as: ```string& name``` or ```string &name```.
+
+## Exercises
+__1.__ Write a function that has two parmeters for numbers and returns the sum of the numbers.
+
+__2.__ Write a function that uses pass by reference to swap two numbers.
+
+__3.__ Write a function that uses pass by reference for one of the parameters and the other parameter is normal. The argument entered into the first parameter will be a number between 1 and 5 called rating, the second argument will be the name of a movie. Inside of the fuction ask the user what they would rate the provided movie between 1 and 5 and include their rating into the average of the movie's rating.
