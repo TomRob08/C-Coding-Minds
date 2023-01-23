@@ -73,6 +73,13 @@ char letter() {
   return 'T';
 }
 
+bool TorF() {
+  bool T = true;
+  bool F = false;
+  
+  return T;
+}
+
 int main() {
   cout << words() << endl;
   cout << decimal() << endl;
