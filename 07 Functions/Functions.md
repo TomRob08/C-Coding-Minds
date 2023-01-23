@@ -84,6 +84,7 @@ int main() {
   cout << words() << endl;
   cout << decimal() << endl;
   cout << letter() << endl;
+  cout << TorF << endl;
   return 0;
 }
 ```
@@ -93,6 +94,7 @@ int main() {
 Slam dunk
 3.9
 T
+true
 ```
 
 The returned value or variable of a function is sent back to the exact location where the function is called and you have to either print it, set it to a variable, or use it in an operation otherwise nothing happens with the data returned.
