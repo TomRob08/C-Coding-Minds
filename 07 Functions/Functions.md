@@ -1,6 +1,6 @@
 # Functions
 
-Functions are blocks of code that can be called and ran. When a fuction is called in a program, the code block within the fuction is ran. The usefulness of a function is the ability to easily resuse code and have better code organization and management.
+Functions are blocks of code that can be called and ran. When a fuction is called in a program, the code block within the fuction runs. The usefulness of a function is the ability to easily resuse code and have better code organization and management.
 
 ### Example:
 ```
