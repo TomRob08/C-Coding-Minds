@@ -84,7 +84,7 @@ int main() {
   cout << words() << endl;
   cout << decimal() << endl;
   cout << letter() << endl;
-  cout << TorF << endl;
+  cout << TorF() << endl;
   return 0;
 }
 ```
