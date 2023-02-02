@@ -89,4 +89,19 @@ __1.__ Write a function that has two parmeters for numbers and returns the sum o
 
 __2.__ Write a function that uses pass by reference to swap two numbers.
 
-__3.__ Write a function that uses pass by reference for one of the parameters and the other parameter is normal. The argument entered into the first parameter will be a number between 1 and 5 called rating, the second argument will be the name of a movie. Inside of the fuction ask the user what they would rate the provided movie between 1 and 5 and include their rating into the average of the movie's rating.
+__3.__ Using the code below write a function named ```movieRating``` that uses pass by reference for the first parameter and the second parameter is regular. The argument entered into the first parameter will be ```rating```, the second argument will be ```movie```. Inside of the fuction ask the user what they would rate the provided movie between 1 and 5 and average their rating with the movie's rating.
+```
+#include<iostream>
+using namespace std;
+
+int main()
+{
+  float rating; // assign this variable a number between 1 - 5
+  string movie; // assign this variable your favorite movie
+  
+  movieRating(rating, movie);
+  cout << rating << endl;
+  
+  return 0;
+}
+```
