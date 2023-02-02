@@ -30,7 +30,7 @@ int main()
 {
   string strArray[5] = {"The", "dog", "is", "very", "fast"};
   //OR
-  string strArray = {"The", "dog", "is", "very", "fast"};
+  string strArray[] = {"The", "dog", "is", "very", "fast"};
   
   return 0;
 ```
