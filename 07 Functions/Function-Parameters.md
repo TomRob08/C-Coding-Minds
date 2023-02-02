@@ -1,6 +1,6 @@
 # Function Parameters
 
-Data can be passed to functions and used in the function.
+Data can be passed to functions and be used in the function.
 
 ### Example:
 ```
