@@ -15,7 +15,7 @@ int main()
 }
 ```
 
-```string``` is the data type of the array. All values inside of an array must be the same datatype that is specified. Arrays can be any datatype we have talked about before.
+```string``` is the data type of the array. All values inside of an array must be the same data type that is specified. Arrays can be any data type we have talked about before.
 
 ```strArray``` is the name if the array.
 
@@ -35,7 +35,7 @@ int main()
   return 0;
 ```
 
-Array can be initialized with values if there is an equal sign on the right and then the array values inside curly brackets ```{}```. Arrays don't need to have their size declared if it is initialized with values because the array knows it's size based on how many values are in the curly brackets.
+Arrays can be initialized with values if there is an equal sign on the right and then the array values inside curly brackets ```{}```. Arrays don't need to have their size declared if it is initialized with values because the array knows it's size based on how many values are in the curly brackets.
 
 ## Accessing values in an array
 
