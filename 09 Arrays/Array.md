@@ -15,7 +15,7 @@ int main()
 }
 ```
 
-```string``` is the dataype of the array. All values inside of an array must be the same datatype that is specified. Arrays can be any datatype we have talked about before.
+```string``` is the data type of the array. All values inside of an array must be the same datatype that is specified. Arrays can be any datatype we have talked about before.
 
 ```strArray``` is the name if the array.
 
