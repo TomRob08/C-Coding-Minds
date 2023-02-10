@@ -65,4 +65,4 @@ struct car
 
 __2.__ Create a struct named ```Box``` with ```height```, ```width```, and ```length``` as it's member variables. Initialize a struct variable and assign values for each member variable. Then print the volume of the box.
 
-__3.__ Create a struct named ```basketball_player```. Then go to <https://www.nba.com/players>, find your favorite player, and create member variables for some of the stats listed. Initialize a struct variable with the name of the player and assign values for that players stats.
+__3.__ Create a struct named ```basketball_player```. Then go to <https://www.nba.com/players>, find a couple players from your favorite team, and create member variables for some of the stats listed. Initialize a struct variable with the names of the players and assign values for that players stats.
