@@ -37,6 +37,11 @@ int main()
 
 Arrays can be initialized with values if there is an equal sign on the right and then the array values inside curly brackets ```{}```. Arrays don't need to have their size declared if it is initialized with values because the array knows it's size based on how many values are in the curly brackets.
 
+### Exercises
+__1.__ Initialize an array called ```fruit``` with the size of 4 and store your favorite fruits as values.
+
+__2.__ Question: What does the number within the ```[]``` represent?
+
 ## Accessing values in an array
 
 Arrays have an index that specifies value positions. The index counts starting at 0 and goes up by 1 to the max size of the array.
@@ -111,7 +116,7 @@ __Output___
 ```
 
 ### Values cannot be added to an array
-If we use the same array we have been using and try adding a value at index 5, it will give an error.
+If we use the same array we have been using and try adding a value at index 5, it will give an error. This is because arrays are considered static.
 ```
 #include <iostream>
 using namespace std;
@@ -136,6 +141,13 @@ __Output__
 signal: segmentation fault (core dumped)
 ```
 Segmentation fault means we are trying to access something outside of the memory available for the array.
+
+### Exercises
+__1.__ Using the previous ```fruit``` array, print each value.
+
+__2.__ Using the previous ```fruit``` array, swap the value at index 0 with the value at index 2.
+
+__3.__ Question: Will this array give an error? ```int strArray[5] = {3,9,43,27,5,16};```
 
 
 ## Looping through an array
@@ -191,3 +203,6 @@ is
 very
 fast
 ```
+
+### Exercise
+__1.__ Using this array: ```int nums = {51, 73, 26, 48, 84, 2, 6};```, loop through the array and update each value to be multiplied by 2.
