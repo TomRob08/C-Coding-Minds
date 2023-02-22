@@ -170,11 +170,11 @@ int main()
 {
   map<float, bool> mVar;
 
-  mVar[1.0] = true;
+  mVar[1.8] = true;
   mVar[2.5] = false;
   mVar[3.0] = true;
 
-  cout << mVar[1.0] << endl;
+  cout << mVar[1.8] << endl;
   cout << mVar[2.5] << endl;
   cout << mVar[3.0] << endl;
 
