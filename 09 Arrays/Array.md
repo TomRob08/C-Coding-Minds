@@ -213,7 +213,7 @@ __2.__ Write a program that will print the largest number in the array.
 
 __3.__ Write a program that will print the average of all numbers in the array.
 
-__4.__ Wrtie a program that will print how many odd and how many even numbers are in the array.
+__4.__ Write a program that will print how many odd and how many even numbers are in the array.
 
 __5.__ Write a program that will sort the array from least to greatest. Print the full array after it has been sorted.
 
