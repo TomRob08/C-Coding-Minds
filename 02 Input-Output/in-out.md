@@ -1,4 +1,4 @@
-# Class 2
+# Input and Output
 
 ## Input
 In C++ we use ```cin``` for gathering input from the terminal. It stands for "console in" so the console (console and terminal are the same) will input data to our program.
