@@ -1,5 +1,4 @@
-# Class 4
-## File streams
+# File streams
 
 C++ has a library that allows us to interact with files within our code which is: ```#include<fstream>```.
 
