@@ -1,4 +1,4 @@
-# Class 1
+# Introduction
 
 ## Our first C++ program
 ```
