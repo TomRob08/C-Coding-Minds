@@ -2,6 +2,8 @@
 
 A nested loop is a loop inside another loop. The main idea is that the "inner loop" will be executed one time for each iteration of the "outer loop". In other words, for each iteration of an outer loop the inner loop re-starts and completes its execution before the outer loop can continue to its next iteration. Nested loops can be used with for loops, while loops, or a combination of both.
 
+`i`
+
 ## Nested For Loop
 
 ### Example:
